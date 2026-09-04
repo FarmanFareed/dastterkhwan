@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+  background: #c98a1f;
+  color: #f6efe3;
+}
+
+*:focus-visible {
+  outline: 2px solid #7a1f2b;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.rule {
+  border-top: 1px solid #241c1533;
+}
+
+.ledger-row {
+  border-bottom: 1px solid #241c1526;
+}

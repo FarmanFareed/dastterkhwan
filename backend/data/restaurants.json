@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "andaaz-e-lahore",
+    "name": "Andaaz-e-Lahore",
+    "city": "Lahore",
+    "region": "Punjab",
+    "cuisine": "Punjabi, Mughlai",
+    "signatureDish": "Lahori Chargha",
+    "priceRange": "Rs. 600-1200",
+    "text": "Andaaz-e-Lahore in Lahore, Punjab serves Punjabi and Mughlai food. Signature dish: Lahori Chargha. Price range Rs. 600-1200. A Gawalmandi institution known for chargha steamed overnight in spices then flash-fried to order. Open daily 1pm-1am. Good for family style, late night dining."
+  },
+  {
+    "slug": "kolachi-do-darya",
+    "name": "Kolachi",
+    "city": "Karachi",
+    "region": "Sindh",
+    "cuisine": "Pakistani, Seafood BBQ",
+    "signatureDish": "Kolachi Fish Tikka",
+    "priceRange": "Rs. 1200+",
+    "text": "Kolachi in Karachi, Sindh serves Pakistani seafood BBQ. Signature dish: Kolachi Fish Tikka. Price range Rs. 1200+. Harbour-side grills at Do Darya with fresh pomfret and shrimp grilled over open coals, known for its waterfront view. Open daily 12pm-12am."
+  },
+  {
+    "slug": "namak-mandi-charsi",
+    "name": "Namak Mandi Charsi Tikka",
+    "city": "Peshawar",
+    "region": "Khyber Pakhtunkhwa",
+    "cuisine": "Pathan, Karahi",
+    "signatureDish": "Charsi Tikka Karahi",
+    "priceRange": "Rs. 600-1200",
+    "text": "Namak Mandi Charsi Tikka in Peshawar, Khyber Pakhtunkhwa serves Pathan karahi. Signature dish: Charsi Tikka Karahi, mutton cooked in its own fat in a decades-old blackened pan. No menu, eaten by hand. Open daily 11am-11pm. Budget to mid-range."
+  },
+  {
+    "slug": "quetta-sajji-house",
+    "name": "Quetta Sajji House",
+    "city": "Quetta",
+    "region": "Balochistan",
+    "cuisine": "Balochi",
+    "signatureDish": "Whole Lamb Sajji",
+    "priceRange": "Rs. 1200+",
+    "text": "Quetta Sajji House in Quetta, Balochistan serves traditional Balochi sajji: whole lamb or chicken salted and roasted upright over an open wood fire. Good for sharing among a group. Open daily 12pm-10pm. Price range Rs. 1200+."
+  },
+  {
+    "slug": "cafe-aylanto",
+    "name": "Cafe Aylanto",
+    "city": "Karachi",
+    "region": "Sindh",
+    "cuisine": "Contemporary Pakistani-Italian",
+    "signatureDish": "Lahori Chicken Pasta",
+    "priceRange": "Rs. 1200+",
+    "text": "Cafe Aylanto in Karachi, Sindh is a contemporary Pakistani-Italian fusion restaurant. Signature dish: Lahori Chicken Pasta. Good for date night, reservation recommended. Open daily 12pm-11pm. Price range Rs. 1200+."
+  },
+  {
+    "slug": "cheena-lahore",
+    "name": "Cheena Lahore",
+    "city": "Lahore",
+    "region": "Punjab",
+    "cuisine": "Desi Chinese",
+    "signatureDish": "Dragon Chicken",
+    "priceRange": "Rs. 600-1200",
+    "text": "Cheena Lahore in Lahore, Punjab serves Desi Chinese food, heavy on garlic and chilli. Signature dish: Dragon Chicken. Open daily 5pm-2am, good for late night spicy wok food."
+  },
+  {
+    "slug": "student-biryani",
+    "name": "Student Biryani",
+    "city": "Karachi",
+    "region": "Sindh",
+    "cuisine": "Sindhi Biryani",
+    "signatureDish": "Chicken Biryani",
+    "priceRange": "Rs. 300-600",
+    "text": "Student Biryani in Karachi, Sindh, started in 1964, is a citywide budget chain famous for its chicken biryani with potato. Open daily 11am-1am. Price range Rs. 300-600. Quick and affordable."
+  },
+  {
+    "slug": "haveli-food-street",
+    "name": "Haveli Rooftop",
+    "city": "Lahore",
+    "region": "Punjab",
+    "cuisine": "Punjabi",
+    "signatureDish": "Mutton Karahi with a Fort view",
+    "priceRange": "Rs. 1200+",
+    "text": "Haveli Rooftop on Food Street, Lahore, Punjab serves traditional Punjabi mutton karahi with a rooftop view of Badshahi Mosque and Lahore Fort. Reservation recommended for weekend window tables. Open daily 6pm-1am."
+  }
+]
